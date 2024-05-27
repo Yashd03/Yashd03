@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash_dubey
-- 👀 I’m currently doing backend development
+- 👀 I’m currently doing frontend development
 - 💞️ I’m a tech enthusiastic
 - 📫 How to reach me ...
 Mail id: dubeyyash6602@gmail.com
